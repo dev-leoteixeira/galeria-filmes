@@ -1,0 +1,129 @@
+[
+  {
+    "id": 1,
+    "title": "Zona de Risco",
+    "year": 2024,
+    "duration": "1h 50m",
+    "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQZaX83a5MRSH4_8-g_fuEbaiFKV8XJ_5wb9pqn4EtTt6_hx0Td",
+    "trailer": "https://www.youtube.com/watch?v=nMPW2UQhmwY",
+    "rating": "14+",
+    "description": "Uma equipe da Força Delta é emboscada em território inimigo. Sem querer abandoná-los, a única esperança de um oficial é um piloto de drone da Força Aérea que pode ser seus olhos durante uma batalha brutal de 48 horas."
+  },
+  {
+    "id": 2,
+    "title": "Danificado",
+    "year": 2024,
+    "duration": "1h 37m",
+    "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT5aabNcULvXnn7dBW4BMT1mdGzbi9uYg0alORyjal79ZM5h5j4",
+    "trailer": "https://www.youtube.com/watch?v=R1vLpNpfF_s",
+    "rating": "Livre",
+    "description": "Assassino sádico surge na Escócia e um detetive da polícia de Chicago se junta à perseguição na esperança de detê-lo antes que faça sua próxima vítima."
+  },
+  {
+    "id": 3,
+    "title": "Atlas",
+    "year": 2024,
+    "duration": "2h 0m",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5gcc2EaxdTspW7n8IcjZixCgAih7F_lSPBNfCiyOwh82JyiuN",
+    "trailer": "https://www.youtube.com/watch?v=KEbFBusYrsw",
+    "rating": "14+",
+    "description": "Uma brilhante analista em contraterrorismo não confia em inteligência artificial, mas precisa usá-la quando a missão para capturar um robô rebelde dá errado."
+  },
+  {
+    "id": 4,
+    "title": "Em Ruínas",
+    "year": 2024,
+    "duration": "1h 47m",
+    "image": "https://br.web.img3.acsta.net/r_1920_1080/pictures/24/01/02/14/50/1140346.png",
+    "trailer": "https://www.youtube.com/watch?v=8LE0cfG2Sr4",
+    "rating": "Livre",
+    "description": "Após um terremoto transformar Seul em uma terra sem lei, um caçador decide resgatar uma adolescente sequestrada por um médico insano."
+  },
+  {
+    "id": 5,
+    "title": "Donzela",
+    "year": 2024,
+    "duration": "1h 50m",
+    "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTTQopfiPuj3Y97H7J9_M-CCnMoSYnPr-4FQDAEORYvkh6TVBJZ",
+    "trailer": "https://www.youtube.com/watch?v=WvFHERDoBVg",
+    "rating": "14+",
+    "description": "Uma jovem concorda em se casar com um belo príncipe, apenas para descobrir que tudo não passou de uma armadilha. Ela é jogada em uma caverna com um dragão cuspidor de fogo e deve confiar apenas em sua inteligência e vontade para sobreviver."
+  },
+
+  {
+    "id": 6,
+    "title": "60 Minutos",
+    "year": 2024,
+    "duration": "1h 29m",
+    "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRQLnBm6BYav0kerdHOVu7HxcGi2BUvmxdiNJ9d-Da5keru32ns",
+    "trailer": "https://www.youtube.com/watch?v=y1P0dEo6S0g",
+    "rating": "Livre",
+    "description": "O lutador de MMA Octavio (Emilio Sakraya) está preparado para encarar a luta mais importante de sua carreira quando recebe uma ligação de sua ex-mulher informando que, se não comparecer ao aniversário de sua filha, perderá de vez a custódia da criança. Provando que seu amor pela pequena é mais importante que qualquer compromisso, ele luta contra o tempo para chegar ao aniversário em exatos 60 minutos, mas precisará lidar com obstáculos no caminho, pois ao abandonar o ringue, também abandonou o compromisso com perigosas pessoas envolvidas em sua luta.."
+  },
+
+  {
+    "id": 7,
+    "title": "Nocaute",
+    "year": 2024,
+    "duration": "1h 26m",
+    "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQJljnEqqSoBLiwEyc_-tPkiimIz6TZD3Thea5qo9qrAn-S2QR9",
+    "trailer": "https://www.youtube.com/watch?v=dyudLZxJ8Sw",
+    "rating": "16+",
+    "description": "O veterano Michael Duffy Duffield está sempre em movimento, até que conhece Max Bomer, um ex-presidiário. Max nota as habilidades de Duffy após uma briga em um bar e oferece a ele um trabalho bem remunerado. Ele aceita e descobre que o serviço é lutar em clubes clandestinos."
+  },
+
+  {
+    "id": 8,
+    "title": "O Salário do Medo",
+    "year": 2024,
+    "duration": "1h 44m",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTRAzNU9lI71iNOL7V-sIbBfSy12UL_dwLSH8YVbmhKv3lTIO7",
+    "trailer": "https://www.youtube.com/watch?v=Qo8FQk6DZBo",
+    "rating": "Livre",
+    "description": "Uma explosão em um poço de petróleo ameaça centenas de vidas. Agora, uma equipe de salvamento é chamada para cruzar o deserto com um carregamento de nitroglicerina."
+  },
+
+  {
+    "id": 9,
+    "title": "Mais um tiro certo",
+    "year": 2024,
+    "duration": "1h 42m",
+    "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ2nIsQYYCSlZDFGSUQbUK045a0L5MltQAG8sta0AoeFQYLGkYD",
+    "trailer": "https://www.youtube.com/watch?v=6JFD8JCtSPE",
+    "rating": "Livre",
+    "description": "Após um ataque a uma base clandestina na Polônia, o SEAL Jake Harris usa todas as suas habilidades militares para sobreviver a um cerco ao aeroporto por mercenários que tentam capturar o suspeito de terrorismo Amin Mansur."
+  },
+
+  {
+    "id": 10,
+    "title": "Um Tira da Pesada 4: Axel Foley",
+    "year": 2024,
+    "duration": "1h 55m",
+    "image": "https://br.web.img3.acsta.net/pictures/23/12/22/21/01/5937812.jpg",
+    "trailer": "https://www.youtube.com/watch?v=pyKjZISYcBE",
+    "rating": "Livre",
+    "description": "O agora veterano detetive Axel Foley (Eddie Murphy) volta a se envolver em confusões pelas ruas de Los Angeles, sendo obrigado a solucionar um importante caso quando sua filha  (Taylour Paige) é ameaçada, Foley e ela se unem a um novo parceiro (Joseph Gordon-Levitt) e aos antigos companheiros Billy Rosewood (Judge Reinhold) e John Taggart (John Ashton) para acabar com uma conspiração, ao mesmo tempo em que pensa em passar o bastão para uma nova geração da polícia."
+  },
+
+  {
+    "id": 11,
+    "title": "Uma prova de coragem",
+    "year": 2024,
+    "duration": "1h 47m",
+    "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSooXcbLgNVGiQNGesDK-UIOHLI4UcgC2OAYZH8k99o9WrS4m3u",
+    "trailer": "https://www.youtube.com/watch?v=OSce5at2gtc",
+    "rating": "12+",
+    "description": "Michael Light e uma equipe de atletas competem no Adventure Racing World Championship. À medida que são levados ao limite da resistência, um cão chamado Arthur aparece e redefine o que realmente significa vitória, lealdade e amizade."
+  },
+
+  {
+    "id": 12,
+    "title": "Alerta de risco",
+    "year": 2024,
+    "duration": "1h 46m",
+    "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSGXQzgA_dKX3iY0rxrljIDjtO3vPDjMb4hKSiqyAjsJNtvbeHh",
+    "trailer": "https://www.youtube.com/watch?v=MJoYwV1zcyo",
+    "rating": "Livre",
+    "description": "Michael Light e uma equipe de atletas competem no Adventure Racing World Championship. À medida que são levados ao limite da resistência, um cão chamado Arthur aparece e redefine o que realmente significa vitória, lealdade e amizade."
+  }
+]
